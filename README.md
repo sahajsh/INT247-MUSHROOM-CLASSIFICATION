@@ -8,9 +8,9 @@ To do so, I have used the following classification methods:
 
 
 
-Decision Tree Classifier
-Logistic Regression Classifier
-k-Nearest Neighbor Classifier
-Support Vector Machine Classifier
-Naive Bayes Classifier
-Random Forest Classifier
+1- Decision Tree Classifier 
+2- Logistic Regression Classifier
+3- k-Nearest Neighbor Classifier
+4- Support Vector Machine Classifier
+5- Naive Bayes Classifier
+6-Random Forest Classifier
